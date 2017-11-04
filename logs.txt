@@ -1,0 +1,11 @@
+commit f1712a4af2665e42989891314676a9eadf166d69
+Author: oscar <oscar@gmail.com>
+Date:   Sat Nov 4 10:54:49 2017 -0600
+
+    Cambio de titulo
+
+commit ea94b17e768e5337093973638b99e61ce01c5103
+Author: oscar <oscar@gmail.com>
+Date:   Sat Nov 4 10:51:45 2017 -0600
+
+    Carga inicial
